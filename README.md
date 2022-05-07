@@ -1,2 +1,0 @@
-# albertliutec.github.io
-blog
